@@ -51,9 +51,9 @@ seaborn
 tensorflow
 Install them using:  pip install -r requirementts.txt
 ## 🚀 How to Run
-Clone the repository: git clone https://github.com/your-username/anomaly-detection-network.git
-cd anomaly-detection-network
-Place the dataset kddcup.data_10_percent_corrected inside a folder named network_data.
+Clone the repository: git clone https://github.com/sumana-coder/Anomaly_Detection_Project_Celebal.git
+%cd /content/anomaly-detection-network
+Place the dataset from above given link inside a folder named network_data.
 
 ## Run the notebook -- jupyter notebook Anomaly_Detection_in_Network_Traffic_Project.ipynb
 
