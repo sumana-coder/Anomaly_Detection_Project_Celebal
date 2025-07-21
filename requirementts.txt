@@ -1,0 +1,8 @@
+Libraries & Packages--
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+
